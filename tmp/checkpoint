@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\Administrator\\hands-on-ml-with-sklearn-and-tf\\tmp/my_model_final.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Administrator\\hands-on-ml-with-sklearn-and-tf\\tmp/my_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Administrator\\hands-on-ml-with-sklearn-and-tf\\tmp/my_model_final.ckpt"
